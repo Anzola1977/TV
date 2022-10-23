@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78b4a511-c4f6-43c0-95ed-1c643f55a898" name="Changes" comment="First commit">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="78b4a511-c4f6-43c0-95ed-1c643f55a898" name="Changes" comment="First commit with inner class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TVset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TVset.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666532929018</updated>
-      <workItem from="1666532930298" duration="2786000" />
+      <workItem from="1666532930298" duration="4983000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1666548477539</created>
@@ -60,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666548477539</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit with inner class">
+      <created>1666548944393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666548944393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="First commit with inner class" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit with inner class" />
   </component>
 </project>
